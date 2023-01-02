@@ -23,15 +23,15 @@ For this, a menu is available to allow you to make your choice. Here is the menu
 
 ## Rules to respect to make an operation
 
-you can't deposit an amount less or equal to 0
+You can't deposit an amount less or equal to 0
 
-you can't withdraw an amount less or equal to 0
+You can't withdraw an amount less or equal to 0
 
-you can't withdraw an amount greater than your balance
+You can't withdraw an amount greater than your balance
 
 ## Technical informations :
 Version java : 17
 
-the jar file is available at the root of the project and is called account-0.0.1.jar
+The jar file is available at the root of the project and is called account-0.0.1.jar
 
 The main class is AccountBankManage that launch the application 
