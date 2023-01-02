@@ -31,4 +31,5 @@ you can't withdraw an amount greater than your balance
 
 ## Technical informations :
 Version java : 17
+
 The main class is AccountBankManage that lauch the application 
