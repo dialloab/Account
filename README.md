@@ -32,4 +32,6 @@ you can't withdraw an amount greater than your balance
 ## Technical informations :
 Version java : 17
 
-The main class is AccountBankManage that lauch the application 
+the jar file is available at the root of the project and is called account-0.0.1.jar
+
+The main class is AccountBankManage that launch the application 
